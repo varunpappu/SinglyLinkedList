@@ -206,7 +206,7 @@ public class SinglyLinkedList {
 	}
 
 	/**
-	 * Sorting without the return of the Node
+	 * Sorts and returns the Node
 	 */
 	public Node sort() {
 		Node current = firstLink;
