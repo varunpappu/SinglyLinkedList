@@ -5,8 +5,8 @@ public class Node {
 
 	public Node next;
 
-	Node(int x) {
-		id = x;
+	Node(int val) {
+		id = val;
 	}
 
 	public static void main(String[] args) {
