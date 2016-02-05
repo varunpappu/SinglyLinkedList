@@ -1,0 +1,28 @@
+Singly Linked Lists are a type of data structure. It is a type of list. 
+In a singly linked list each node in the list stores the contents of the node and a pointer or 
+reference to the next node in the list. It does not store any pointer or reference to the previous node.
+
+The SinglyLinkedList consists of two files one containing the Node structure and the other file contatining the functionality.
+
+The following are the functionalies added:
+1)isEmpty() //Check if the Node is empty or not
+
+2)insertFirst() //Insert elements in the beginning of the List
+
+3)insertLast() //Insert elements at the end of the List
+
+4)removeFirst() //Remove the first element
+
+5)find() //Check if the element is present or not
+
+6)delete() //Delete a particular Node, fails during duplication
+
+7)deleteAllInstance() //Deletes all the instances of the value X
+
+8)removeDuplicatesofNumber() //Deletes the duplicate of a particular number
+
+9)removeDuplicates() //Removes all the duplicates of a number
+
+10)sort() //Sort and then return of the Node
+
+11)display() //Displays the Linked List
